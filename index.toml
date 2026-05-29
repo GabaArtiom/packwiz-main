@@ -1853,6 +1853,11 @@ hash = "8bfad6f449b0263a0d35e3b52b0b6667fe4e5cca976727eeb57a51c2c14b14bb"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "a1e99e73f9b3d71358832896d6a08d45c55b7a0037e00df69f98ba6880994341"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "05b5cf678ff99306ec85ddf8a14bf5ab704422a4681bc7e50fdee13f34712196"
 metafile = true
@@ -1975,6 +1980,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "4fafb5885889e52b56dbdeb4a7193b45bf52043a9aa17f55d6403781ae61222f"
+metafile = true
+
+[[files]]
+file = "mods/iron-jetpacks.pw.toml"
+hash = "396254c3cd156fa0bfd06d1fef4af115c21e7222e3c2fa13450e89f50bc7df40"
 metafile = true
 
 [[files]]
