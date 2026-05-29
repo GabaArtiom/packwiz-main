@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'Corail Tombstone 9.4.9 for 1.21.1 [NeoForge]'
 [download]
 hash = 'b2b6e918554954e5f22dce6cff9154c289cac6ba'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7951/535/tombstone-neoforge-1.21.1-9.4.9.jar'
 
 [update.curseforge]
 file-id = 7951535

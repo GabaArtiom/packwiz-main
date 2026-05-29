@@ -8,8 +8,8 @@ x-prismlauncher-release-type = 'release'
 [download]
 hash = 'e13ba7f0ba43043cbe8723de7533e39accc87ad1'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7825/464/alltheores-3.2.0_neoforge_1.21.1.jar'
 
 [update.curseforge]
 file-id = 7825464

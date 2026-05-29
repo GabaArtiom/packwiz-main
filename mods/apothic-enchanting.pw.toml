@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'ApothicEnchanting-1.21.1-1.5.3.jar'
 [download]
 hash = '751276a13db49a5f2202e50715b8864f5ae40cb6'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/8107/222/ApothicEnchanting-1.21.1-1.5.3.jar'
 
 [update.curseforge]
 file-id = 8107222

@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'ApothicAttributes-1.21.1-2.9.1.jar'
 [download]
 hash = 'e7f669e1b45d75076200436f37c40a6dd3b6a6ff'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7445/79/ApothicAttributes-1.21.1-2.9.1.jar'
 
 [update.curseforge]
 file-id = 7445079

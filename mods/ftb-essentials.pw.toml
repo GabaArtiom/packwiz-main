@@ -8,8 +8,8 @@ x-prismlauncher-release-type = 'release'
 [download]
 hash = '7d6f274b38d767215549ec066246390c49ac7ad8'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7608/733/ftb-essentials-neoforge-2101.1.9.jar'
 
 [update.curseforge]
 file-id = 7608733

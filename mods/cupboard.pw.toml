@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'cupboard-1.21-3.5.jar'
 [download]
 hash = 'e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar'
 
 [update.curseforge]
 file-id = 7746488

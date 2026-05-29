@@ -10,8 +10,8 @@ x-prismlauncher-version-number = '"Modular Routers" 13.2.4 MC-1.21.1'
 [download]
 hash = 'f4d535579462dc6436e4896daac4d2dd4ce8e428'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7525/2/modular-routers-13.2.4%2Bmc1.21.1.jar'
 
 [update.curseforge]
 file-id = 7525002

@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'RFToolsBuilder - 1.21-7.0.4'
 [download]
 hash = '91e5121ce193b3df2203a0b3fecd1c272e4a28f1'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7284/650/rftoolsbuilder-1.21-7.0.4.jar'
 
 [update.curseforge]
 file-id = 7284650

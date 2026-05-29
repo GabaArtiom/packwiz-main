@@ -9,8 +9,8 @@ x-prismlauncher-version-number = '2.1.1-beta (NeoForge 1.21.1)'
 [download]
 hash = 'e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/6203/425/arseng-2.1.1-beta.jar'
 
 [update.curseforge]
 file-id = 6203425

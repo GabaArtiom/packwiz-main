@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'RFToolsBase - 1.21-6.0.10'
 [download]
 hash = '5c801c592a97ad7a4a0c33f186881d719eb06b9c'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7263/404/rftoolsbase-1.21-6.0.10.jar'
 
 [update.curseforge]
 file-id = 7263404

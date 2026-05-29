@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'Apotheosis-1.21.1-8.5.3.jar'
 [download]
 hash = '9a334c834b4b11f90c0b86595fd0a47fae3a8e3a'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/8102/47/Apotheosis-1.21.1-8.5.3.jar'
 
 [update.curseforge]
 file-id = 8102047

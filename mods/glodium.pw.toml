@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'Glodium-1.21-2.2-neoforge.jar'
 [download]
 hash = '9f61a3162665ad0b37f6f268339ac98097af1a87'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/5821/676/Glodium-1.21-2.2-neoforge.jar'
 
 [update.curseforge]
 file-id = 5821676

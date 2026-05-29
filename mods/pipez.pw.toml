@@ -9,8 +9,8 @@ x-prismlauncher-version-number = '[NEOFORGE][1.21.1] Pipez 1.21.1-1.2.19'
 [download]
 hash = '760c1cd20e6e47ef86bd48ece413873cccddc972'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/5757/713/pipez-neoforge-1.21.1-1.2.19.jar'
 
 [update.curseforge]
 file-id = 5757713

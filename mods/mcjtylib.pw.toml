@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'McJtyLib - 1.21-9.0.20'
 [download]
 hash = '3a42bcacd5b886ab0ce3076b64f1177b1dcd300a'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7299/488/mcjtylib-1.21-9.0.20.jar'
 
 [update.curseforge]
 file-id = 7299488

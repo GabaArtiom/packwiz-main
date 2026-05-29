@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'RFToolsUtility - 1.21-7.0.11'
 [download]
 hash = 'c3a619f70429e2c0849b6f9cf8cb76cc152efea3'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7745/889/rftoolsutility-1.21-7.0.11.jar'
 
 [update.curseforge]
 file-id = 7745889

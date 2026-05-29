@@ -9,8 +9,8 @@ x-prismlauncher-version-number = "L_Ender's Cataclysm 1.21.1-3.28.jar"
 [download]
 hash = '450584c5f708a7d0abb32fb2fe1d2dc7d1afb426'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/8095/590/L_Ender's%20Cataclysm%201.21.1-3.28.jar'
 
 [update.curseforge]
 file-id = 8095590

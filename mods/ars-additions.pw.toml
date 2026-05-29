@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'ars_additions-1.21.1-21.3.0'
 [download]
 hash = 'ce2440b606acb20b79a42bf7c6c24d163c93241f'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7646/325/ars_additions-1.21.1-21.3.0.jar'
 
 [update.curseforge]
 file-id = 7646325

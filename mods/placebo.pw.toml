@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'Placebo-1.21.1-9.9.1.jar'
 [download]
 hash = '1c2b8c38066d6f36209c5dadee25c184ef65202e'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/6926/281/Placebo-1.21.1-9.9.1.jar'
 
 [update.curseforge]
 file-id = 6926281

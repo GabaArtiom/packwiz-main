@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'ApothicSpawners-1.21.1-1.3.4.jar'
 [download]
 hash = '26d701238bdb76a497a64f588409419ad067e557'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7492/121/ApothicSpawners-1.21.1-1.3.4.jar'
 
 [update.curseforge]
 file-id = 7492121

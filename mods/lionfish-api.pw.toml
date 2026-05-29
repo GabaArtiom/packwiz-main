@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'lionfishapi-3.0.jar'
 [download]
 hash = '0bcbc7d9674f3152414648e041a488cc875a4853'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/8094/835/lionfishapi-3.0-beta.jar'
 
 [update.curseforge]
 file-id = 8094835

@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'Patchouli-1.21.1-93-NEOFORGE.jar'
 [download]
 hash = '5413bb9b8fc35ebe46b06b48bf9afafbd8471140'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar'
 
 [update.curseforge]
 file-id = 7730942

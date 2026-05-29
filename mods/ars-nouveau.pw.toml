@@ -10,8 +10,8 @@ x-prismlauncher-version-number = 'ars_nouveau-1.21.1-5.11.6'
 [download]
 hash = 'b424f6b0dfd77d1803d1de3cde792e04bf26be40'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/8152/94/ars_nouveau-1.21.1-5.11.6.jar'
 
 [update.curseforge]
 file-id = 8152094

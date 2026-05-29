@@ -9,8 +9,8 @@ x-prismlauncher-version-number = 'lootintegrations_cataclysm-1.2.jar'
 [download]
 hash = '75b5e36c11aa16cf0d6c38fcb8cfa2afc31a2bb7'
 hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+mode = 'url'
+url = 'https://edge.forgecdn.net/files/7920/425/lootintegrations_cataclysm-1.2.jar'
 
 [update.curseforge]
 file-id = 7920425
