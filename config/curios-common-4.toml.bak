@@ -1,0 +1,18 @@
+﻿#List of slots to create or modify.
+#See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
+#
+# Added by Codex to make this instance closer to ATM10's Curios layout.
+# These are added on top of slot definitions supplied by installed mods.
+slots = [
+    "id=head;size=6;operation=ADD",
+    "id=necklace;size=9;operation=ADD",
+    "id=body;size=3;operation=ADD",
+    "id=back;size=4;operation=ADD",
+    "id=bracelet;size=4;operation=ADD",
+    "id=hands;size=4;operation=ADD",
+    "id=ring;size=7;operation=ADD",
+    "id=belt;size=12;operation=ADD",
+    "id=charm;size=9;operation=ADD",
+    "id=feet;size=2;operation=ADD",
+    "id=curio;size=2;operation=ADD"
+]

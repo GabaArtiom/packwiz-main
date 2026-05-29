@@ -1,0 +1,5 @@
+#List of slots to create or modify.
+#See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
+#
+# Compact custom Curios layout for this instance.
+slots = ["id=head;size=1", "id=necklace;size=1", "id=body;size=1", "id=back;size=1", "id=bracelet;size=2", "id=hands;size=2", "id=ring;size=2", "id=belt;size=1", "id=charm;size=2", "id=feet;size=2", "id=curio;size=2"]

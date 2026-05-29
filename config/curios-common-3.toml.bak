@@ -1,0 +1,5 @@
+﻿#List of slots to create or modify.
+#See documentation for syntax: https://docs.illusivesoulworks.com/curios/configuration#slot-configuration
+#
+# Added by Codex. Curios reads this server-side and assigns these slot sizes to players.
+slots = ["id=head;size=7;operation=SET", "id=necklace;size=10;operation=SET", "id=body;size=3;operation=SET", "id=back;size=6;operation=SET", "id=bracelet;size=5;operation=SET", "id=hands;size=6;operation=SET", "id=ring;size=9;operation=SET", "id=belt;size=16;operation=SET", "id=charm;size=11;operation=SET", "id=feet;size=5;operation=SET", "id=curio;size=2;operation=SET"]
