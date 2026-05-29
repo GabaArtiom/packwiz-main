@@ -1,0 +1,16 @@
+filename = 'stellaris-1.21-neoforge-1.4.22.jar'
+name = 'Stellaris'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5281dfdd2ea401f5f274336b94d978d15d70e7ecf59cde5da9461b0bc641ba76a562cc7b5fbe2cf92fdae6dad293f65e78bb44124cbd4e7c913389f6e500a13e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ItTQpuBn/versions/NwYPqauj/stellaris-1.21-neoforge-1.4.22.jar'
+
+[update.modrinth]
+mod-id = 'ItTQpuBn'
+version = 'NwYPqauj'

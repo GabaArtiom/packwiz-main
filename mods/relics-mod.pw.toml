@@ -1,0 +1,16 @@
+filename = 'relics-1.21.1-0.12.7.jar'
+name = 'Relics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'c5675cd03f2b76421745e3c1e4517aef1639ee6f10faf837d9eb83a1c568b39ee7e6aa655ac926499ab842b79bd818d8c51d690968e6790eaad240cec0833bd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OCJRPujW/versions/3puaIcSu/relics-1.21.1-0.12.7.jar'
+
+[update.modrinth]
+mod-id = 'OCJRPujW'
+version = '3puaIcSu'

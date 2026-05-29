@@ -1,0 +1,21 @@
+filename = 'NeoForge-StellarisExtra-1.2.21-1.21.1.jar'
+name = 'Stellaris Extra'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.21'
+
+[download]
+hash = '21dac90d76d6d243fa9daabbc8343fcf70c2fbc1661220522d53a1b7951b8b2265f5c9cc06c7bbab7e6d41fd077286d7e8425e2ad0b2eacf87a77e32c012570a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OkseWSe2/versions/tpmmo0E5/NeoForge-StellarisExtra-1.2.21-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'OkseWSe2'
+version = 'tpmmo0E5'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'ItTQpuBn'
+type = 'REQUIRED'

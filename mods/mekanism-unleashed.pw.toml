@@ -1,0 +1,16 @@
+filename = 'mekanism_unleashed-0.3.2.jar'
+name = 'Mekanism Unleashed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '93c363ff5ded4a363f9feaa6f6402f72881cd471416ceb58bb902289e69915910fb99a884c48050d3e99c84ae370c9fbe327403d6195afb08d5e3ce78cb97bd6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IZciqufR/versions/jCGHoMoI/mekanism_unleashed-0.3.2.jar'
+
+[update.modrinth]
+mod-id = 'IZciqufR'
+version = 'jCGHoMoI'

@@ -1,0 +1,21 @@
+filename = 'accelerated-decay-neoforge-21.0.0.jar'
+name = 'Accelerated Decay'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.0.0'
+
+[download]
+hash = 'd4c2e620c5acecdfbdbcf406d076d52fc48b8ce052bb724bbe5f0e8df505449b23de981cf8280802e57822222d58c3df789348e60c90cf32d18f436887576c9b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/laX5CckD/versions/rtgQ5T5Q/accelerated-decay-neoforge-21.0.0.jar'
+
+[update.modrinth]
+mod-id = 'laX5CckD'
+version = 'rtgQ5T5Q'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'lhGA9TYQ'
+type = 'REQUIRED'

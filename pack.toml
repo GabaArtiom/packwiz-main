@@ -1,0 +1,13 @@
+name = "safonov"
+author = "gabik"
+version = "5.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "140a79121d072f67d77319cf08ef7aa13d145c6b2efacca68bd9b7e6fbd14e17"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

@@ -1,0 +1,18 @@
+filename = 'invtweaks-1.21.1-1.2.0.jar'
+name = 'Inventory Tweaks: ReFoxed'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.2.0'
+
+[download]
+hash = 'a419544da8d943ccf17ed62f359fdbff04752735d370b18de3833a74277039e0313c8032e06462125b6b9b4e15b4eec057b680d302b465191ce51c13254bdeb2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uqnMI1kq/versions/tcTciTmQ/invtweaks-1.21.1-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'uqnMI1kq'
+version = 'tcTciTmQ'

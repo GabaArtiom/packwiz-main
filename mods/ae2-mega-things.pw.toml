@@ -1,0 +1,37 @@
+filename = 'AE2MEGAThings-1.21.1-2.0.4.jar'
+name = 'AE2 MEGA Things'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.21.1] v2.0.4'
+
+[download]
+hash = '5df271ee7c41abe2fa753842b778a4c7ac1290b9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6203833
+project-id = 1150075
+
+[[x-prismlauncher-dependencies]]
+addonId = '609977'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '622112'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '574300'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'

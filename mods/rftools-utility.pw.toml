@@ -1,0 +1,29 @@
+filename = 'rftoolsutility-1.21-7.0.11.jar'
+name = 'RFTools Utility'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'RFToolsUtility - 1.21-7.0.11'
+
+[download]
+hash = 'c3a619f70429e2c0849b6f9cf8cb76cc152efea3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7745889
+project-id = 342466
+
+[[x-prismlauncher-dependencies]]
+addonId = '233105'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '245211'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '326041'
+type = 'REQUIRED'
