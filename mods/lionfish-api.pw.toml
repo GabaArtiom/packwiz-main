@@ -1,6 +1,6 @@
 filename = 'lionfishapi-3.0-beta.jar'
 name = 'Lionfish API'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

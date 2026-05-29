@@ -1,6 +1,6 @@
 filename = 'YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar'
 name = "YUNG's Better Desert Temples"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1729,7 +1729,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-mega-things.pw.toml"
-hash = "3fe1b04aca4b47dc08c23c05cf8db254427aeaeb3c985d47deeddb383ec86a4a"
+hash = "fe335c97992e8dd7702fdeba4de7d7aa577dd1997bc4e262f4f19c7d2d3a0777"
 metafile = true
 
 [[files]]
@@ -1806,7 +1806,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "cd2e7835ad2b7aa4f7af6e4af2764b9c1db619489f61cec68086b6740f948a35"
+hash = "6563031e561db8ccfa82ccbd78d8d33ba2b915b294141ef8bed223a5d00ba776"
 metafile = true
 
 [[files]]
@@ -2015,22 +2015,22 @@ metafile = true
 
 [[files]]
 file = "mods/lionfish-api.pw.toml"
-hash = "238bb39b460b52aae0be2143253dd8a09cbc4c7ff14c985906fa8a5d485b3b09"
+hash = "a94253cf07c4753223b62d821cd04fec566d502e6c805293f4d7753bcea5cf31"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "688e642ba173d6e30a263c22e0249998cceb118523ace0898bc0d1165237c05a"
+hash = "706fdde286661e50a5c2f5aba40c5083c6e53a7cfe11e14eb083f27e1e7d2d06"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations-cataclysm.pw.toml"
-hash = "317f81942703e44b96204192c785705f225016ce1a01cf2dab2d3326815f4403"
+hash = "20caf098b9ae359c0962337c40fb2ef431e25393f2cac8011db64f161e1e5dcd"
 metafile = true
 
 [[files]]
 file = "mods/loot-integrations.pw.toml"
-hash = "46d44875e16644037fa040fbb38acc6ed6149d8304e5235486e12fed00cd31d1"
+hash = "6b000731727b3c631e8f7e3f210dfd56c0adc28ef9db02c916b72defbc35500b"
 metafile = true
 
 [[files]]
@@ -2112,7 +2112,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "e14e49f4b9cc1c8dd9601a78bd54f7ae29bdb3a8ef8e56ab80e2f156a3bef1ab"
+hash = "01b1568c6d47ac7a4f8e47d6a989bd356f4f771bc2d3d0516e6a3cc4b5647e81"
 metafile = true
 
 [[files]]
@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
-hash = "bb7ef81f1a9a3952c002415d2ce18bcb15d2b0476861972379ed0ede4921c11d"
+hash = "03be04ccbcb7eb8a0373dd10478ee182141f1f5962a3329785a71a1ff35757aa"
 metafile = true
 
 [[files]]
@@ -2233,7 +2233,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "dfccf77975c794b6651c1130418b5dab135ff4f60a266e0937172d81140edd7d"
+hash = "0deb1ef9f6cc70a657729c72f246e6bd097eb3abe5eb888fcc844cb7cedc619c"
 metafile = true
 
 [[files]]
@@ -2262,7 +2262,7 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "4838a8e59e3eede500f27947884470a12478e15595622b04b196494faf405477"
+hash = "72b1193b82cf084147d22fa17adf8428eaacd49dc976d32aadb6273056cd4e2a"
 metafile = true
 
 [[files]]
@@ -2282,12 +2282,12 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "0f3627e8986807bbf12f13c5611c958063df93944d31dd604d18112ca01f225b"
+hash = "6468e686b75d00b7e1cdc7b468625c849ffc2a1cb159314b3fd74dd8a58b1234"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "657db5c73751806d2f8b22da0b58fd382985cd7835d563a114b8b6a017712855"
+hash = "26b728d101322f33993296a01ac77a0919ecc058be368653a4405f8ff4f51a9f"
 metafile = true
 
 [[files]]
