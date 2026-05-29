@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cat-check.tmp"
-hash = "7411899e838bf2bb812af95f3a0884ca22720d549cb18f9296435ae0a0223905"
-
-[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "ea58e4998b6ad79626af3758814fc8e784b7a2f9047051c03a2f2d05cc888540"
 
