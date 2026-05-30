@@ -1718,9 +1718,8 @@ hash = "99a4931958beafc5810b2ae966a36c04928b48239de8f561a0621ba6ac36b074"
 metafile = true
 
 [[files]]
-file = "mods/adorable-hamster-pets.pw.toml"
-hash = "6a49d2b1692246763a9f21e93b429d66620bb9f7aac0ccb12852c2041dba7486"
-metafile = true
+file = "mods/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
+hash = "db1d5622d1e82d7b2b2ddfc2c2474b531fd4b3f987beec293f7b5052b5457c32"
 
 [[files]]
 file = "mods/advancedae.pw.toml"
