@@ -2003,6 +2003,11 @@ hash = "1cf6a8e95e12fa88bcb6a8f5d78e606463bb2eeeea49020e49a4c09a721b2f15"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "b77e7a42699c1938f5247b88c9cb2bad73bb050dc162af34b320302383a2bf49"
 metafile = true
