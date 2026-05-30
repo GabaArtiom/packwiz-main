@@ -1849,6 +1849,11 @@ hash = "91ca2a0e6c511aa3df0ca6d433fa9e52c1799fc6ea8489bee6b6825b39503035"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "e95f6e9384ea06e17022b7f03c9595d68e264f1af13134d27addab0bf10cf704"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9a7c236a0ec1ba7a88cc28446ca3bcd5623188b6a77922fbc38a587f0b68597b"
 metafile = true
@@ -1983,6 +1988,11 @@ hash = "4fafb5885889e52b56dbdeb4a7193b45bf52043a9aa17f55d6403781ae61222f"
 metafile = true
 
 [[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "3f6a27001eb45ce6296829cfa9d7d41a0bd304914217f8dc3196feaa9030f963"
+metafile = true
+
+[[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "396254c3cd156fa0bfd06d1fef4af115c21e7222e3c2fa13450e89f50bc7df40"
 metafile = true
@@ -2005,6 +2015,11 @@ metafile = true
 [[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "deae90c04b4c04e7106ee5ea2d55916ad8782b2a353589ee1a0e12699690d266"
+metafile = true
+
+[[files]]
+file = "mods/keybind-bundles.pw.toml"
+hash = "a26c954738dd29a9e99600916db36ac3f68c6508358119c82e2442d256eac128"
 metafile = true
 
 [[files]]
@@ -2068,6 +2083,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "e1f0b648366c514ed919f8dd34f270aae57b15f8c7c20a0c723bbf7280620f7f"
+metafile = true
+
+[[files]]
+file = "mods/mob-grinding-utils.pw.toml"
+hash = "ed334bd8ff25757d72ac569a854f0a846b786d7704c2c36ebd95c00b97c7a6fe"
 metafile = true
 
 [[files]]
