@@ -2115,6 +2115,21 @@ hash = "69f33b16373ad7f86e701f0b04931f2f8fc555867199190df8283ce7ffb0e981"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "6f039a40753e0975d77a3d2f08a84637c57f6beae9ff4018db9ca15ab68ead25"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "4aedab305e3285223dcbe6e6c7ca745a1ef501f9c32fdf4aa292fe5c5d6c1657"
+metafile = true
+
+[[files]]
+file = "mods/mystical-automation.pw.toml"
+hash = "788bffe987780feeac8cb6c1de4e6df37deff084d040167f25a4fafd231d42c3"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "7b388ebf364a4cf46f639245825583edfa4214fed4028a6c45ee57376bc00803"
 metafile = true
