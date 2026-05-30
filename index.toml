@@ -1718,6 +1718,11 @@ hash = "99a4931958beafc5810b2ae966a36c04928b48239de8f561a0621ba6ac36b074"
 metafile = true
 
 [[files]]
+file = "mods/adorable-hamster-pets.pw.toml"
+hash = "6a49d2b1692246763a9f21e93b429d66620bb9f7aac0ccb12852c2041dba7486"
+metafile = true
+
+[[files]]
 file = "mods/advancedae.pw.toml"
 hash = "11ffb6d5d2e84176afc7d6ec8fe892b50b427f11debdc99d335fee68854236e9"
 metafile = true
@@ -1769,7 +1774,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3c5afd30b70adf475d71e49f0912539dfbcf11478ed119a4f4e6d502aa07f7ce"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -1945,12 +1950,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ec458cc2bfcc217707c183110bcd5a1c2275e8a6d541f06e1659bdfcffcec9b1"
+hash = "0b7687a29b0dd4400e6c2db295a81b9543c7275674f8b357f57dc64b9d5f49be"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4dfd87937dd8722c599aff2df250a182edde8d94685e0466ff01bb0c981b401a"
+hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
 
 [[files]]
@@ -2010,7 +2015,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "e1876181face1aa5d93996587a5dfb6d4c981afb8657187bdbc9f79c272a052b"
+hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]

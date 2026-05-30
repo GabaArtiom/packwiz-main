@@ -1,16 +1,13 @@
-filename = 'fzzy_config-0.7.6+1.21+neoforge.jar'
-name = 'Fzzy Config'
-side = 'both'
-x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
-x-prismlauncher-release-type = 'release'
+name = "Fzzy Config"
+filename = "fzzy_config-0.7.6+1.21+neoforge.jar"
+side = "both"
 
 [download]
-hash = '6071890aba7f2273c9fd508914acc7850de9d986423760f9ce416875ffa04eea2ad71a7a6f4d5f90f0625a672f6f54606778d11151b155f3fd98c223c61a4a6d'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar'
+hash-format = "sha1"
+hash = "c0910f9b975aaab8545ce950539748fb33d704d1"
+mode = "metadata:curseforge"
 
-[update.modrinth]
-mod-id = 'hYykXjDp'
-version = 'MAPG6cXE'
+[update]
+[update.curseforge]
+file-id = 7568897
+project-id = 1005914
