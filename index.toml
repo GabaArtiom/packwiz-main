@@ -2182,6 +2182,11 @@ hash = "81219fe4df96a713223616348a295969c22b95ed3ed73c6910d2ceb27166ae92"
 metafile = true
 
 [[files]]
+file = "mods/openblocks-elevator.pw.toml"
+hash = "bc3e79ec7c82f0e4b752ba7f41709e1e87e25169cf96b7c38dafefeaf876a80f"
+metafile = true
+
+[[files]]
 file = "mods/oritech.pw.toml"
 hash = "4c5e4daf239f67307371d1ef132ab7413dcb5e4e10015a2f39afefb07180e3a3"
 metafile = true
