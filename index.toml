@@ -1752,6 +1752,11 @@ hash = "67e4d61d7ce111a6af50507cdf473812af6def589eb217379d68bf0db9560321"
 metafile = true
 
 [[files]]
+file = "mods/allthemodium.pw.toml"
+hash = "56ef6b45f352d428e19d2332470e6b742dd677a2ba38ce7bf4e9c17f7355d9b1"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "07d5abfa1cb6957ff634e819c355ecdd5f442bb81547a0cd77c8383196d6258e"
 metafile = true
@@ -1800,7 +1805,7 @@ metafile = true
 
 [[files]]
 file = "mods/ato.pw.toml"
-hash = "a80f57b5dc1408541886744c0471b26d708518694195f5206449445e4cb1c0f4"
+hash = "2caa0a932f416d3a6d6dd2921840856395b56b04417292938ddb1796b72bf448"
 metafile = true
 
 [[files]]
