@@ -1,4 +1,4 @@
-RecipeViewerEvents.removeEntries('item', event => {
+RecipeViewerEvents.removeEntriesCompletely('item', event => {
   const materials = ['allthemodium', 'vibranium', 'unobtainium']
   const hiddenGear = [
     'helmet',
