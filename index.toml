@@ -1681,6 +1681,10 @@ file = "kubejs/server_scripts/allthemodium_gear_blacklist.js"
 hash = "f2e0fb7e9a908153127c7df7f3f5dafc5a145eb9e1556eae3346fdff8ac7e489"
 
 [[files]]
+file = "kubejs/server_scripts/squatgrow_default_off.js"
+hash = "5a3bf960386637f327aa384f21baf4bcd29b201ffbd86a31a19a9c71e7c1dbe4"
+
+[[files]]
 file = "kubejs/startup_scripts/hide_allthemodium_creative_tab.js"
 hash = "3c52258bc2ac613a0dc13dfa9cb53d3e5a27108cee550fd6f95815daba91ad2f"
 
