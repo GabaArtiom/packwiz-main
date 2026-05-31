@@ -2067,6 +2067,11 @@ file = "mods/mcjtylib-1.21-9.0.20.jar"
 hash = "5bfd971d990d7f7e6880cac04b9fc6180e1b42b884a96a147e9799d7e24af27b"
 
 [[files]]
+file = "mods/me-infinity-cell.pw.toml"
+hash = "f3a2eed40dc3b59ff495cd02f2c62b93ec3a8b337b10840bc3ec33011db7633c"
+metafile = true
+
+[[files]]
 file = "mods/megacells-4.11.0.jar"
 hash = "a386bbf12afb11729b0dcf77f64221893d250f22e6185a4d728b9799b230bc55"
 
