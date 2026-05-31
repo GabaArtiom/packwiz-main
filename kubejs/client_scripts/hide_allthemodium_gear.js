@@ -1,4 +1,4 @@
-EMIEvents.hideItems(event => {
+JEIEvents.hideItems(event => {
   const materials = ['allthemodium', 'vibranium', 'unobtainium']
   const hiddenGear = [
     'helmet',
