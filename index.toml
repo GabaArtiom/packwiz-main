@@ -2030,6 +2030,11 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+hash = "33c677f35f4d1f87cdf68b2d89372d5d6d608dd85291313637221a71bd2faa0e"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "b77e7a42699c1938f5247b88c9cb2bad73bb050dc162af34b320302383a2bf49"
 metafile = true
