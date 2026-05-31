@@ -1673,6 +1673,10 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
+file = "kubejs/server_scripts/allthemodium_gear_blacklist.js"
+hash = "f2e0fb7e9a908153127c7df7f3f5dafc5a145eb9e1556eae3346fdff8ac7e489"
+
+[[files]]
 file = "mods/AE2-Things-1.4.2-beta.jar"
 hash = "9725dd363cc874601737b417ddfe675e4a5ae4a6428bdeb67ac408f775eb4241"
 
@@ -2048,6 +2052,11 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "018fd970193f808f8c28f873d8b8c69ac9ba134712c7db27fc8d639cb226c9a6"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "a94253cf07c4753223b62d821cd04fec566d502e6c805293f4d7753bcea5cf31"
 metafile = true
@@ -2239,6 +2248,11 @@ hash = "ab4f26ab6b8ebbe76caf2c46a7107cf724dc207112caaa49a3a636c65acba2d1"
 [[files]]
 file = "mods/rftoolsutility-1.21-7.0.11.jar"
 hash = "bf38b428b688791c2c9d409c854ea7bb08b114c111f018f80e85e87d063c8c62"
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
+metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
