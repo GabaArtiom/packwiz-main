@@ -1681,6 +1681,10 @@ file = "kubejs/server_scripts/allthemodium_gear_blacklist.js"
 hash = "f2e0fb7e9a908153127c7df7f3f5dafc5a145eb9e1556eae3346fdff8ac7e489"
 
 [[files]]
+file = "kubejs/startup_scripts/hide_allthemodium_creative_tab.js"
+hash = "612495460e74dcb3eacf1d63649f537a22d538f54ce5d6e4433e8336ca54d363"
+
+[[files]]
 file = "mods/AE2-Things-1.4.2-beta.jar"
 hash = "9725dd363cc874601737b417ddfe675e4a5ae4a6428bdeb67ac408f775eb4241"
 
