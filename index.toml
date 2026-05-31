@@ -1774,6 +1774,11 @@ hash = "07d5abfa1cb6957ff634e819c355ecdd5f442bb81547a0cd77c8383196d6258e"
 metafile = true
 
 [[files]]
+file = "mods/apothic-spawners.pw.toml"
+hash = "73c6535aa33ece6287b6434c21edc5c16635003442e95c57b410b3acb4957a95"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "b431ad040b7ec6920988e6290aa1ec3dd4ce50d70b7419afa011eea20d50fee7"
 metafile = true
@@ -2213,6 +2218,11 @@ metafile = true
 [[files]]
 file = "mods/pipez-neoforge-1.21.1-1.2.19.jar"
 hash = "f5ad61fec403586df96747894b36e619e8fcd323c46bc18b7b0c5d9c944fb248"
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
+metafile = true
 
 [[files]]
 file = "mods/potentials.pw.toml"
