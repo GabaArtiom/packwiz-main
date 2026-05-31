@@ -1862,7 +1862,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a17e9d14a3efb24b659673f58de17eacf700e46062d91b6a45359145dc220282"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
@@ -2314,6 +2314,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "17a4b42f3c78c0f646ddf71167a085d7241379f102bc1f0803173536364ba523"
+metafile = true
+
+[[files]]
+file = "mods/squat-grow.pw.toml"
+hash = "f24d0f0ed898432765e846b945e8b993c64ff8794e537f3216f6077361a9a5ee"
 metafile = true
 
 [[files]]
