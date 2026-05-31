@@ -2030,9 +2030,8 @@ hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
-file = "mods/jump-over-fences-forge.pw.toml"
-hash = "33c677f35f4d1f87cdf68b2d89372d5d6d608dd85291313637221a71bd2faa0e"
-metafile = true
+file = "mods/jumpoverfences-neoforge-1.21.1-1.6.1.jar"
+hash = "a3d840a5bbc5dc117d991b929962d78ae1ad0ac427cf4c7f5ca9de33bea854cf"
 
 [[files]]
 file = "mods/jupiter.pw.toml"
