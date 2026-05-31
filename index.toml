@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "allthemodium-check.jar"
+hash = "870004c1d6fbd0891ff322b9ff9e8d42c6aaa082ace7562e25948f1636b5c6f1"
+
+[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "ea58e4998b6ad79626af3758814fc8e784b7a2f9047051c03a2f2d05cc888540"
 
@@ -1682,7 +1686,7 @@ hash = "f2e0fb7e9a908153127c7df7f3f5dafc5a145eb9e1556eae3346fdff8ac7e489"
 
 [[files]]
 file = "kubejs/startup_scripts/hide_allthemodium_creative_tab.js"
-hash = "612495460e74dcb3eacf1d63649f537a22d538f54ce5d6e4433e8336ca54d363"
+hash = "3c52258bc2ac613a0dc13dfa9cb53d3e5a27108cee550fd6f95815daba91ad2f"
 
 [[files]]
 file = "mods/AE2-Things-1.4.2-beta.jar"
