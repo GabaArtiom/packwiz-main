@@ -1673,6 +1673,10 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
+file = "kubejs/client_scripts/hide_allthemodium_gear.js"
+hash = "5da68de94e0de896110b1ae5e3e9f88a5d512310f1a043928e24111d78f75082"
+
+[[files]]
 file = "kubejs/server_scripts/allthemodium_gear_blacklist.js"
 hash = "f2e0fb7e9a908153127c7df7f3f5dafc5a145eb9e1556eae3346fdff8ac7e489"
 
