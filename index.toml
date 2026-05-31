@@ -2189,6 +2189,11 @@ hash = "b8820409ef4238b8190b66350c978aa4c2f223c20fa5ee558a7ea146cb4b0a56"
 metafile = true
 
 [[files]]
+file = "mods/pylons.pw.toml"
+hash = "82acd60100d09ee3b5ba08a4da07ae2c733e10493682ce30a4b044577d7ab43f"
+metafile = true
+
+[[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "dbac7cb15050858b5f8d65234e1a97a2a9e906bc166fbce33500b74cb9c4d879"
 metafile = true
