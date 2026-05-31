@@ -1674,7 +1674,7 @@ hash = "e63fbc2d25ccd2d86eb887562d3f5f544dadcb75b0c68dd7cc152f7197a1e2d7"
 
 [[files]]
 file = "kubejs/client_scripts/hide_allthemodium_gear.js"
-hash = "e9fc380d8042acbac016f5c8cb85b3a4e2d2d887f0c6109528411ebf58fe1de8"
+hash = "f3c4e18e2b9f9b343ae4ff7e81464c3676ff2a84e24717681adac32880bed74f"
 
 [[files]]
 file = "kubejs/server_scripts/allthemodium_gear_blacklist.js"
