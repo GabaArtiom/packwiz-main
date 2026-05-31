@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "allthemodium-check.jar"
-hash = "870004c1d6fbd0891ff322b9ff9e8d42c6aaa082ace7562e25948f1636b5c6f1"
-
-[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "ea58e4998b6ad79626af3758814fc8e784b7a2f9047051c03a2f2d05cc888540"
 
