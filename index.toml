@@ -1730,11 +1730,6 @@ hash = "99a4931958beafc5810b2ae966a36c04928b48239de8f561a0621ba6ac36b074"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "39ec3cac812f819f45b88a70f6b83eb8c0e6007e9272bbccfb3f364b421d2631"
-metafile = true
-
-[[files]]
 file = "mods/adorablehamsterpets-3.6.0-1.21.1+neoforge.jar"
 hash = "db1d5622d1e82d7b2b2ddfc2c2474b531fd4b3f987beec293f7b5052b5457c32"
 
@@ -1799,11 +1794,6 @@ hash = "59ed45561190925f80e1f52ab236e0009ffb078f2318f1e0016121967f0c868c"
 metafile = true
 
 [[files]]
-file = "mods/archers.pw.toml"
-hash = "63c260e3fa656241afea90968376ae1b6cebafcb2973e8cea72c692c8a80aed1"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -1836,11 +1826,6 @@ hash = "2caa0a932f416d3a6d6dd2921840856395b56b04417292938ddb1796b72bf448"
 metafile = true
 
 [[files]]
-file = "mods/azurelib-armor.pw.toml"
-hash = "511fac899163ff32ea85258766515b26981dd419d53d65d211babda1fd9450c5"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "7204ca702cb3053f358503544823185e0738d66f2e87e06db513d26281b2cd1e"
 metafile = true
@@ -1848,11 +1833,6 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "6563031e561db8ccfa82ccbd78d8d33ba2b915b294141ef8bed223a5d00ba776"
-metafile = true
-
-[[files]]
-file = "mods/bundle-api.pw.toml"
-hash = "6ba13de15147a3668b8b9272807da65e081dc1516f5581ce050c4aae8c2c109f"
 metafile = true
 
 [[files]]
@@ -1977,11 +1957,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "bef7bce8eafcdbe82e8cad178e96d581c2431eb263c53d71fb3b77222ad22a8a"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
 metafile = true
 
 [[files]]
@@ -2226,16 +2201,6 @@ hash = "4c5e4daf239f67307371d1ef132ab7413dcb5e4e10015a2f39afefb07180e3a3"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
-metafile = true
-
-[[files]]
-file = "mods/paladins-and-priests.pw.toml"
-hash = "4951b27e1384561d2af4ee8abd94ca74874a170eef4790b9c74a1d1ffc3ac63b"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "01b1568c6d47ac7a4f8e47d6a989bd356f4f771bc2d3d0516e6a3cc4b5647e81"
 metafile = true
@@ -2260,11 +2225,6 @@ hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
 
 [[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
-metafile = true
-
-[[files]]
 file = "mods/potentials.pw.toml"
 hash = "91c5f053d604dbeee79c754960164751cfcfa718b29e993e430b95335a9fd8b9"
 metafile = true
@@ -2275,18 +2235,8 @@ hash = "b8820409ef4238b8190b66350c978aa4c2f223c20fa5ee558a7ea146cb4b0a56"
 metafile = true
 
 [[files]]
-file = "mods/puffish-skills.pw.toml"
-hash = "48e07746aba9a2047e6ca411315ced532cafce860a1ca1059de05d66fea4973f"
-metafile = true
-
-[[files]]
 file = "mods/pylons.pw.toml"
 hash = "82acd60100d09ee3b5ba08a4da07ae2c733e10493682ce30a4b044577d7ab43f"
-metafile = true
-
-[[files]]
-file = "mods/ranged-weapon-api.pw.toml"
-hash = "d410970309efdb9a6e8cd0a890a8e509a9bdef008c64e7449926f7539ebf844c"
 metafile = true
 
 [[files]]
@@ -2332,28 +2282,8 @@ hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
-file = "mods/rogues-and-warriors.pw.toml"
-hash = "5f8574ca882f151698c62f7282c20054a8d4e4f9e44a08f4f043dce335dd2082"
-metafile = true
-
-[[files]]
-file = "mods/rune-crafting.pw.toml"
-hash = "181a70d2bcbbbd86ce065eb445f1a19bc1a2a3490c17b7bf55d2bec906cd2f19"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "dbf910b625622730bd57e4d0512ab0cc5348e1005f003b8bcd21d4266e753b5e"
-metafile = true
-
-[[files]]
-file = "mods/shield-api.pw.toml"
-hash = "f1860e58c21e04e2526abd05ed2af3a2bc7433819af4deb60d0ec0aebb14c938"
-metafile = true
-
-[[files]]
-file = "mods/skill-tree.pw.toml"
-hash = "95641026171be8d74e4139c4e9a19df5a8e74eef3f3db1ccf43660c83438bfee"
 metafile = true
 
 [[files]]
@@ -2387,16 +2317,6 @@ hash = "17a4b42f3c78c0f646ddf71167a085d7241379f102bc1f0803173536364ba523"
 metafile = true
 
 [[files]]
-file = "mods/spell-engine.pw.toml"
-hash = "f030e3b2cce4b573a7e8d8da223993e7429fb32cf4f7ca3cfd1c0e98a1ee1c41"
-metafile = true
-
-[[files]]
-file = "mods/spell-power.pw.toml"
-hash = "d26d8b27ca5e5d9623a9cf97e02c5de180962a464a31264d1959ada0f035367a"
-metafile = true
-
-[[files]]
 file = "mods/stellaris-extra.pw.toml"
 hash = "e5a9f83f894a46e8283f0b4c8419bad38e537a30dda8a7c232808c5104255989"
 metafile = true
@@ -2404,11 +2324,6 @@ metafile = true
 [[files]]
 file = "mods/stellaris.pw.toml"
 hash = "10cd98cbe0ad24a6f340606212cce57d24eae7aabb0c66068633c1db275570c2"
-metafile = true
-
-[[files]]
-file = "mods/structure-pool-api.pw.toml"
-hash = "1973f5f616c0af6a1d82c051d21d59af685de5048964b9dd45c6e52aa6684f05"
 metafile = true
 
 [[files]]
@@ -2463,11 +2378,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "72b1193b82cf084147d22fa17adf8428eaacd49dc976d32aadb6273056cd4e2a"
-metafile = true
-
-[[files]]
-file = "mods/wizards.pw.toml"
-hash = "9501245ea369df23776aa8ce2bb73649830c01986153d6a09c9076ca20fe3ae9"
 metafile = true
 
 [[files]]
