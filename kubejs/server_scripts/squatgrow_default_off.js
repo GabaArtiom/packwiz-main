@@ -1,16 +1,14 @@
-const SQUATGROW_DEFAULTED_KEY = 'safonov_squatgrow_defaulted'
-
 if (Platform.isLoaded('squatgrow')) {
-  const SquatGrowNeoForge = Java.loadClass('dev.wuffs.squatgrow.neoforge.SquatGrowNeoForge')
-
   PlayerEvents.loggedIn(event => {
+    const defaultedKey = 'safonov_squatgrow_defaulted'
+    const squatGrowNeoForge = Java.loadClass('dev.wuffs.squatgrow.neoforge.SquatGrowNeoForge')
     const player = event.player
 
-    if (player.persistentData.contains(SQUATGROW_DEFAULTED_KEY)) {
+    if (player.persistentData.contains(defaultedKey)) {
       return
     }
 
-    player.setData(SquatGrowNeoForge.SQUAT_GROW_ENABLED.get(), false)
-    player.persistentData.putBoolean(SQUATGROW_DEFAULTED_KEY, true)
+    player.setData(squatGrowNeoForge.SQUAT_GROW_ENABLED.get(), false)
+    player.persistentData.putBoolean(defaultedKey, true)
   })
 }
