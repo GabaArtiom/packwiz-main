@@ -2235,6 +2235,16 @@ hash = "b8820409ef4238b8190b66350c978aa4c2f223c20fa5ee558a7ea146cb4b0a56"
 metafile = true
 
 [[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "15ee389c711499d6ac90048c882577c24411ebd6bd1e70b49aef601fcc3b3a09"
+metafile = true
+
+[[files]]
+file = "mods/puffish-skills.pw.toml"
+hash = "48e07746aba9a2047e6ca411315ced532cafce860a1ca1059de05d66fea4973f"
+metafile = true
+
+[[files]]
 file = "mods/pylons.pw.toml"
 hash = "82acd60100d09ee3b5ba08a4da07ae2c733e10493682ce30a4b044577d7ab43f"
 metafile = true
@@ -2324,6 +2334,11 @@ metafile = true
 [[files]]
 file = "mods/stellaris.pw.toml"
 hash = "10cd98cbe0ad24a6f340606212cce57d24eae7aabb0c66068633c1db275570c2"
+metafile = true
+
+[[files]]
+file = "mods/stronger-skill-tree-for-pufferfishs-skills.pw.toml"
+hash = "6f0023ad5684755445eb6326e27cbc83fad2831b9e59a351bc33b721aba2fb55"
 metafile = true
 
 [[files]]
