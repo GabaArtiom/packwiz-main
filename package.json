@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "ui": "node tools/packwiz-ui/server.js"
+  }
+}

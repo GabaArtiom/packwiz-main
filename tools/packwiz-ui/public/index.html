@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Packwiz UI</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1 id="packName">Packwiz</h1>
+        <p id="packMeta"></p>
+      </div>
+      <div class="actions">
+        <button id="refreshBtn" title="Пересчитать index.toml">Refresh</button>
+        <button id="pushBtn" class="primary" title="Commit и push">Push</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="toolbar">
+        <input id="search" type="search" placeholder="Поиск по модам" />
+        <select id="sideFilter">
+          <option value="">Все стороны</option>
+          <option value="client">Client</option>
+          <option value="server">Server</option>
+          <option value="both">Both</option>
+        </select>
+        <select id="typeFilter">
+          <option value="">Все типы</option>
+          <option value="managed">Packwiz</option>
+          <option value="jar">Jar</option>
+        </select>
+      </section>
+
+      <section class="addPanel">
+        <select id="provider">
+          <option value="modrinth">Modrinth</option>
+          <option value="curseforge">CurseForge</option>
+          <option value="url">URL</option>
+        </select>
+        <input id="source" placeholder="slug или URL мода" />
+        <button id="addBtn" class="primary">Добавить</button>
+      </section>
+
+      <section class="statusRow">
+        <div id="count"></div>
+        <pre id="gitStatus"></pre>
+      </section>
+
+      <section class="modList" id="modList"></section>
+    </main>
+
+    <dialog id="pushDialog">
+      <form method="dialog">
+        <h2>Push изменений</h2>
+        <label>
+          Commit message
+          <input id="commitMessage" value="Update modpack" />
+        </label>
+        <label>
+          Remote
+          <input id="remote" value="origin" />
+        </label>
+        <menu>
+          <button value="cancel">Отмена</button>
+          <button id="confirmPush" value="default" class="primary">Push</button>
+        </menu>
+      </form>
+    </dialog>
+
+    <div id="toast" role="status"></div>
+    <script src="/app.js"></script>
+  </body>
+</html>
