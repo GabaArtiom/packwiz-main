@@ -2255,6 +2255,11 @@ hash = "dbac7cb15050858b5f8d65234e1a97a2a9e906bc166fbce33500b74cb9c4d879"
 metafile = true
 
 [[files]]
+file = "mods/reliquary-reincarnations.pw.toml"
+hash = "1696a2e185730edda5cac29e5c120f23da046645c35752cfb5432f9a6fd4dc50"
+metafile = true
+
+[[files]]
 file = "mods/reliquified-ars-nouveau.pw.toml"
 hash = "03be04ccbcb7eb8a0373dd10478ee182141f1f5962a3329785a71a1ff35757aa"
 metafile = true
@@ -2419,6 +2424,10 @@ metafile = true
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "26b728d101322f33993296a01ac77a0919ecc058be368653a4405f8ff4f51a9f"
 metafile = true
+
+[[files]]
+file = "package-lock.json"
+hash = "69ac13d542f2572c5013478e5a9722831c0aa1eb0832fade6ac6716e7a832c40"
 
 [[files]]
 file = "resourcepacks/.index/faithful-64x.pw.toml"

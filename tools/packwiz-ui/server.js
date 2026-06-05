@@ -180,7 +180,7 @@ async function removeMod(file) {
 async function addMod(source, provider) {
   const value = String(source || "").trim();
   if (!value) throw new Error("Нужно указать slug или URL мода");
-  const packwiz = await run("packwiz", ["--version"]);
+  const packwiz = await run("packwiz", ["--help"]);
   if (!packwiz.ok) {
     throw new Error("packwiz не найден в PATH. Установи packwiz, затем повтори добавление.");
   }
